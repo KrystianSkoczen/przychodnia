@@ -1,0 +1,33 @@
+body {
+	background-image: url(nurse.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	margin: 0 2%;
+}
+section {
+	padding: 3%;
+	
+}
+.jumbotron {
+	background-image: url(sky&night.jpg);   
+	color: #FFF;
+}
+@media (min-width: 768px) {
+	.prevention {
+		padding-top: 60px;	
+	}
+}
+table, td, th, tr {
+	padding: 2%;
+	margin-top: 1%;
+	background-color: #ffe0e0;
+}
+h1 {
+	font-weight: bold;
+	letter-spacing: 2px;	
+}
+p {
+	font-size: 20px;
+	font-weight: bold;
+}
