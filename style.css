@@ -13,6 +13,16 @@ section {
 	background-image: url(sky&night.jpg);   
 	color: #FFF;
 }
+
+footer {
+	text-align: right;
+}
+
+footer a {
+	text-decoration: none;
+	color: #000;
+}
+
 @media (min-width: 768px) {
 	.prevention {
 		padding-top: 60px;	
